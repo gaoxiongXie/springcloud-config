@@ -1,1 +1,2 @@
-
+config:
+  data: config-test.yml配置文件
